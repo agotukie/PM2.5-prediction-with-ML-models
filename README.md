@@ -16,7 +16,8 @@ Data in initial model:
 * set of sezonal data ('date', 'year', 'month', 'day','hour', 'day_of_week', 'no_of_week')
 
 Correlation matrix  
-![obraz](https://user-images.githubusercontent.com/10920417/161381928-a2def66c-02e0-4d69-a6f3-4fd2183ee578.png)
+![obraz](https://user-images.githubusercontent.com/10920417/161385575-851430b9-5f8c-48b3-bae8-4107611a1e5f.png)
+
 
 Some variables are highly correlated  
 VIF - variance inflation factor  

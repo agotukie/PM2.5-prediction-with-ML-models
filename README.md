@@ -1,5 +1,5 @@
-# PM25 prediction in Warsaw
-
+# Air pollution (PM2.5) prediction in Warsaw
+PM2.5 - particulate matter with diameters 2.5 micrometers and smaller. 
 Model created for fun to test possibility of creating machine learning model based on available data for Warsaw.  
 
 
